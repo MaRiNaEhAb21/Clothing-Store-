@@ -5,6 +5,8 @@
 - [Data Source](#data-source)
 - [Exploratory Data Anaysis](#exploratory-data-analysis)
 
+### Full Dashboard
+![Screenshot 2024-07-23 211350](https://github.com/user-attachments/assets/b4b24eb0-b35d-4129-b139-6cc92ef0ea5b)
 
 
 ### Project Overview
