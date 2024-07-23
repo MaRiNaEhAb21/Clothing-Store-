@@ -1,5 +1,12 @@
 # Sales Analysis
 
+## Table Of Contents
+- [Project Overview](#project-overview).
+- [Data Source](#data-source)
+- [Exploratory Data Anaysis](#exploratory-data-analysis)
+
+
+
 ### Project Overview
 
 This data represents the sales over months from 2019 to 2020 for town team clothing company.
